@@ -1,4 +1,4 @@
-package CfxAPI
+package cfxapi
 
 import (
 	"encoding/json"
